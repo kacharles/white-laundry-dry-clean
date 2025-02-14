@@ -1,0 +1,83 @@
+White Laundry & Dry Clean Service Website Planning Documentation
+
+Relevant Pages
+>Home 
+>About Us
+>Contact Us 
+>Services 
+>Pricing
+>Pickup | Delivery
+>FAQs
+>Testimonials
+>Promotions or Sales 
+
+Relevant Home Page Content
+
+1. Hero Section
+>Headline: A bold, catchy statement to grab attention
+Example: "Fresh Clothes, Hassle-Free Service!" | "Apperance Demands Respect"
+>Subheadline: Briefly explain what makes your service special.
+Example: "Affordable, eco-friendly laundry and dry-cleaning with free pickup
+and delivery!" 
+>CTA: Prominent buttons for key actions
+Example: "Schedule Pickup" | "Learn More."
+>Background image or slider with professional photos of clean clothes, happy
+customers, or your team in action...
+
+2. About Your Services
+>Headline: "What we Offer" or "Our Services."
+>Brief Overview: Highlight key services in bullet points or icons
+Example: 
+Dry Clearning
+Wash & Fold Laundry
+Ironing Services
+Stain Removal
+CTA: "View All Services" or "See Pricing"
+
+3. Why Choose Us
+>Headline: "Why Choose [Your Business Name]? 
+>Content: Short paragraphs or icons with descriptions emphasizing
+Fast turnaround times
+Eco-friendly cleaning methods
+Affordable pricing
+Reliable pickup and delivery
+
+>Include customer trust factors: "Over x happy customers" 
+
+4. Testimonials or Reviews
+>Headine: "What our Customers say or are saying
+>Content: 
+Highlight 2-3 short customer reviews with names and photos(if applicable)
+Link to full Testimonials page 
+
+5. How it Works Section
+Headline: "Laundry Made Easy"
+Content: A simple 3-or-4-step process with icons or images 
+Example: 
+>Schedule Pickup - Book online or call us
+>We collect - Convenient pickup at your location
+>We clean - Expert care for every item 
+>We deliver - Fresh, clean clothes back to you
+
+>CTA: "Get Started Now."
+
+6. Promotions/Offers
+Headline: "Special Offers Just for You"!
+>content: Showcase ongoing discounts or deals
+Example: "First order 20% off! Use code FRESH20" 
+
+CTA: Claim Offer
+
+7. Contact and Location
+>Get in Touch 
+
+>Content: 
+-Business phone number, email, and operating hours
+-Bried mention of service areas
+-Map integration or link to the Contact Us page. 
+>CAT: Contact Us or Find Us on the Map
+
+8. Footer
+Quick links to essential pages(Services, Pricing, FAQ, Contact Us)
+Social media icons and links
+Copyright and contact information

@@ -1,0 +1,113 @@
+* { 
+    padding: 0; 
+    margin: 0; 
+    box-sizing: border-box;
+}
+
+body { 
+    font-size: 16px; 
+    background-color: #eee; 
+}
+.sub-header, .sub-main, .sub-footer { 
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header { 
+    /* background-color: #2e3190; */
+    background-color: mediumblue;
+}
+.header-nav { 
+    display: grid;
+    grid-template-columns: 3fr 0.2fr;
+    padding-right: 0.5rem;
+}
+.brand { 
+    display: flex;
+    min-height: 5rem; 
+    /* background-color: aliceblue; */
+    align-items: center;
+}
+.brand img { 
+    width: 150px; 
+    height: auto;
+    object-fit: cover;
+    border: 1px dotted white;
+    margin: 1.5rem;
+}
+.brand h1 { 
+    color: white;
+}
+
+#menu::before {
+    content: "\2630";
+}
+
+#menu { 
+    background: none;
+    border: none;
+    color: white;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 50px;
+    
+}
+#menu:hover { 
+    cursor: pointer;
+}
+
+header nav { 
+    display: flex;
+}
+
+.navMenu { 
+  list-style: none;
+  padding: 0rem .5rem 1rem 1.5rem;
+  width: 100%;
+}
+.navMenu li { 
+    /* background-color: rgb(0, 0, 205); */
+    color: yellow;
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 1px solid white;
+    overflow: hidden;
+    border-radius: 1px;
+}
+
+.navMenu a { 
+    display: block; 
+    padding: 0.8rem;
+    text-align: left;
+    color: white;
+    text-decoration: none;
+    transition: 1.5s;
+    font-weight: 700;
+    font-size: clamp(1rem, 2rem, 1.5rem);
+    
+}
+.navMenu li { 
+    display: none;
+}
+.show li { 
+    display: block;
+}
+#menu.show::before { 
+    content: "X";
+}
+.navMenu a:hover, navMenu a:active {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: #2e3190;
+    /* border-radius: 5px; */
+}
+
+main { 
+    background-color: aliceblue;
+}
+
+footer { 
+    background-color: rgb(46, 49, 144);
+    min-height: 4rem;
+    text-align: center;
+    color: white; 
+    align-content: center;
+}
+
